@@ -1,6 +1,6 @@
-baseURL = "https://resepmasakan-three.vercel.app/"
+baseURL = "https://resepmamakhu.netlify.app/"
 languageCode = "id-id"
-title = "resepmasakan"
+title = "resepmamakhu"
 theme = "sleek"
 sectionPagesMenu = "main"
 
@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 [params]
   description = "Tempatnya lebih dari 1.000.000 resep masakan terbaik untuk panduan memasak lengkap Bunda"
   topdescription = "Tempatnya lebih dari 1.000.000 resep terbaik untuk panduan memasak lengkap Bunda"
-  toptitle = "resepmasakan"
+  toptitle = "resepmamakhu"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
